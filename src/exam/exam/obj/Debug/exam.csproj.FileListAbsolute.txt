@@ -1,0 +1,10 @@
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.Form1.resources
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.Properties.Resources.resources
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\bin\Debug\exam.exe.config
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\bin\Debug\exam.exe
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\bin\Debug\exam.pdb
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.exe
+C:\Users\Acer\Documents\ПКсп-119\3 курс\Экзамен\src\exam\exam\obj\Debug\exam.pdb
